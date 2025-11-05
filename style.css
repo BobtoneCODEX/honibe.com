@@ -4,6 +4,7 @@ html, body {
     padding: 0;
     overflow-x: hidden; /* prevent horizontal scrolling */
     font-family: 'Poppins', sans-serif;
+    display: none;
 }
 
 
